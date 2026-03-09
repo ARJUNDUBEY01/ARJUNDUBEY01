@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=94A684&height=300&section=header&text=Arjun%20Dubey&fontSize=80&fontColor=F8FAFC&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20BTech%20CS%20Student&descAlignY=60&descSize=20&descColor=F1F5F9" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=94A684&height=300&section=header&text=Arjun%20Dubey&fontSize=70&fontColor=F8FAFC&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20BTech%20CS%20Student&descAlignY=70&descSize=20&descColor=F1F5F9" width="100%" />
 </div>
 
 <div align="center">
@@ -101,3 +101,4 @@ I don't just write code; I architect digital experiences that bridge the gap bet
   <br />
   <img src="https://komarev.com/ghpvc/?username=ArjunDubey&label=PROFILE%20VIEWS&color=94A684&style=flat-square" />
 </div>
+
