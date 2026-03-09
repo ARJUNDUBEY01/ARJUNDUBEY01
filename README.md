@@ -6,7 +6,7 @@
 
 ---
 
-# 🖥 Developer Console
+# 
 
 <p align="center">
 
