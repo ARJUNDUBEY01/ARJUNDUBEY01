@@ -60,15 +60,27 @@ I don't just write code; I architect digital experiences that bridge the gap bet
 
 ---
 
-### 📊 Performance Dashboard
+### 📊 Strategic Skill Proficiency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunDubey&show_icons=true&theme=vibrant&hide_border=true&bg_color=F8FAFC&title_color=475569&icon_color=94A684&text_color=64748B" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDubey&layout=compact&theme=vibrant&hide_border=true&bg_color=F8FAFC&title_color=475569&icon_color=94A684&text_color=64748B" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunDubey&theme=vibrant&background=F8FAFC&ring=94A684&fire=94A684&currStreakNum=475569" width="97%" />
+  <table>
+    <tr>
+      <td width="50%"><b>Frontend Architecture</b></td>
+      <td width="50%"><img src="https://progress-bar.dev/85/?scale=100&title=UI/UX&color=94A684&width=250" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><b>Backend & API Design</b></td>
+      <td width="50%"><img src="https://progress-bar.dev/80/?scale=100&title=Scalability&color=94A684&width=250" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><b>Database Management</b></td>
+      <td width="50%"><img src="https://progress-bar.dev/75/?scale=100&title=Storage&color=94A684&width=250" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><b>System Optimization</b></td>
+      <td width="50%"><img src="https://progress-bar.dev/70/?scale=100&title=Performance&color=94A684&width=250" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -101,4 +113,3 @@ I don't just write code; I architect digital experiences that bridge the gap bet
   <br />
   <img src="https://komarev.com/ghpvc/?username=ArjunDubey&label=PROFILE%20VIEWS&color=94A684&style=flat-square" />
 </div>
-
