@@ -1,108 +1,103 @@
-<!-- GLASSMORPHISM BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=94A684&height=300&section=header&text=Arjun%20Dubey&fontSize=80&fontColor=F8FAFC&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20BTech%20CS%20Student&descAlignY=60&descSize=20&descColor=F1F5F9" width="100%" />
+</div>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1f2937,100:1e3a8a&height=220&section=header&text=Arjun%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20Console&descAlignY=60"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=94A684&center=true&vCenter=true&width=500&lines=Code.+Build.+Solve.+Repeat.;Full+Stack+Developer;React+Developer;Backend+Builder;Open+Source+Learner" alt="Typing SVG" />
+</div>
 
----
+<br />
 
-# 
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;Full+Stack+Developer;Building+Modern+Web+Apps;Learning+Backend+Architecture"/>
-
-</p>
+## 🪐 The Engineer's Narrative
+I don't just write code; I architect digital experiences that bridge the gap between human intuition and machine logic. My journey in Computer Science is driven by a focus on building clean, functional, and user-centric systems. I believe that the most complex problems don't need complicated code—they need thoughtful engineering.
 
 ---
 
-# 🧑‍💻 IDE TABS
+### 💻 Technical Ecosystem
 
-| BIO | SKILLS | STATS |
-|----|----|----|
-| 💻 Developer | ⚡ Tech Stack | 📊 Analytics |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,c,git,github,tailwind,nextjs&theme=light" />
+</div>
 
----
+<br />
 
-# 👤 Bio
-
----
-
-# ⚡ Skills Dashboard
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,c,git,github&theme=light"/>
-
-</p>
-
----
-
-# 🚀 Current Projects
-
-| Project | Description | Tech |
-|-------|-------------|------|
-| Video Call App | Agora based real-time video chat | React / WebRTC |
-| Learning LMS | Online learning platform | MERN |
-| Portfolio System | Dynamic developer portfolio | React / Node |
-| API Collection | Express backend APIs | Node / MongoDB |
-
----
-
-# 📊 Developer Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARJUNDUBEY01&show_icons=true&theme=transparent&title_color=ffffff&text_color=9ca3af"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUNDUBEY01&layout=compact&theme=transparent&title_color=ffffff&text_color=9ca3af"/>
-
-</p>
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Frontend</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/HTML5-94A684?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-94A684?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-94A684?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-94A684?style=flat-square&logo=react&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Backend</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Node.js-94A684?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-94A684?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-94A684?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-94A684?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-94A684?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-94A684?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📈 Activity Graph
+### � Core Principles & Workflow
+> "Great software is not written. It is engineered."
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARJUNDUBEY01&theme=github-dark&bg_color=1f2937&hide_border=true"/>
-
-</p>
-
----
-
-# 🧠 Experience Timeline
+- **Simplicity First:** I strive for the "Quiet Luxury" of clean, readable code.
+- **Modular Thinking:** Every system is broken into atomic, reusable components.
+- **Continuous Learning:** The tech stack evolves, but the fundamentals of logic are forever.
 
 ---
 
-# 🐍 Contribution Animation
+### 📊 Performance Dashboard
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjunDubey&show_icons=true&theme=vibrant&hide_border=true&bg_color=F8FAFC&title_color=475569&icon_color=94A684&text_color=64748B" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunDubey&layout=compact&theme=vibrant&hide_border=true&bg_color=F8FAFC&title_color=475569&icon_color=94A684&text_color=64748B" width="48%" />
+</div>
 
-<img src="https://raw.githubusercontent.com/ARJUNDUBEY01/ARJUNDUBEY01/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/arjun-dubey-65891239b">
-<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:dubeyarjun034@gmail.com">
-<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunDubey&theme=vibrant&background=F8FAFC&ring=94A684&fire=94A684&currStreakNum=475569" width="97%" />
+</div>
 
 ---
 
-<p align="center">
+### � The Developer Journey
 
-⚡ *“Code. Learn. Build. Improve.”*
+```text
+● Learning Coding Fundamentals (C/C++)
+  └── ○ Mastering the logic behind the screens
+      └── ● Entering the World of Web
+          └── ○ Building modern interfaces with React
+              └── ● Exploring Scalability
+                  └── ○ Node.js, Express, and Database Systems
+                      └── ⚡ NOW: Engineering World-Class Solutions
+```
 
-</p>
+---
+
+### 🐍 Contribution Activity
+<div align="center">
+  <img src="https://github.com/ArjunDubey/ArjunDubey/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Always learning. Always building.</h3>
+  <a href="mailto:arjun@example.com"><img src="https://img.shields.io/badge/Email-94A684?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arjun-dubey"><img src="https://img.shields.io/badge/LinkedIn-94A684?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=ArjunDubey&label=PROFILE%20VIEWS&color=94A684&style=flat-square" />
+</div>
