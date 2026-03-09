@@ -101,7 +101,7 @@ I don't just write code; I architect digital experiences that bridge the gap bet
 
 ### 🐍 Contribution Activity
 <div align="center">
-  <img src="https://github.com/ArjunDubey/ArjunDubey/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
+  <img src="https://github.com/ARJUNDUBEY01/ARJUNDUBEY01/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Snake" />
 </div>
 
 ---
@@ -111,5 +111,5 @@ I don't just write code; I architect digital experiences that bridge the gap bet
   <a href="mailto:arjun@example.com"><img src="https://img.shields.io/badge/Email-94A684?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="https://linkedin.com/in/arjun-dubey"><img src="https://img.shields.io/badge/LinkedIn-94A684?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=ArjunDubey&label=PROFILE%20VIEWS&color=94A684&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ARJUNDUBEY01&label=PROFILE%20VIEWS&color=94A684&style=flat-square" />
 </div>
