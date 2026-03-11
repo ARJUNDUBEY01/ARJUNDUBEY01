@@ -9,7 +9,7 @@
 
 💻 *Frontend Developer* | ⚙️ *Backend Developer* | 🌐 *Full Stack Web Developer*  
 🏫 *B.Tech Computer Science Student – Swaminarayan University*  
-📅 *Batch: 2024–2028*
+📅 *Batch: 2025–2026*
 
 🌱 Passionate about building modern web applications and continuously learning new technologies.  
 🚀 Currently exploring **React, Backend Development, and Scalable Web Systems**.
