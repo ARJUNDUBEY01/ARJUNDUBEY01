@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;MERN+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=ARJUNDUBEY01&color=blue)
+(https://komarev.com/ghpvc/?username=ARJUNDUBEY01&color=blue)
 
 ---
 
