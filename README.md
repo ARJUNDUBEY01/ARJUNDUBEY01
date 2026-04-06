@@ -28,13 +28,8 @@
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
-## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-gamma-six-ln9lbt10xr.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge)](https://github.com/ARJUNDUBEY01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/arjun-dubey)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](./Arjun%20Dubey%20-%20Resume-Latest.pdf)
-
 
 <a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
