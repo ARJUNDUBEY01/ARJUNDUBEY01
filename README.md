@@ -29,7 +29,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-gamma-six-ln9lbt10xr.vercel.app/)
+<a href="https://portfolio-gamma-six-ln9lbt10xr.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
 
 <a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
