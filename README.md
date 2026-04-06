@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://portfolio-gamma-six-ln9lbt10xr.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
 </a>
 
 
