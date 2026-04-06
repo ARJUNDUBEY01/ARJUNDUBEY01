@@ -4,8 +4,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;MERN+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
-(https://komarev.com/ghpvc/?username=ARJUNDUBEY01&color=blue)
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ARJUNDUBEY01&color=blue"
+</p>
 ---
 
 💻 *Frontend Developer* | ⚙️ *Backend Developer* | 🌐 *Full Stack Web Developer*  
