@@ -69,16 +69,6 @@
 
 ---
 
-# 🚀 Projects
-
-| Project | Description |
-|------|-------------|
-| 🎥 Agora Video Call Clone | Real-time video calling application built using Agora API |
-| 🌐 LMS Platform Clone | Learning management system inspired by CodingGita |
-| 🧑‍💻 Website Clones | Multiple responsive website clones for UI practice |
-| ⚛️ React Projects | Interactive frontend projects built with React |
-
----
 
 # 📊 GitHub Stats
 
@@ -99,7 +89,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUNDUBEY01&theme=dark">
 </p>
 
 ---
@@ -112,19 +102,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" height="100"/>
-
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" height="100"/>
-
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" height="100"/>
-
-</p>
-
----
 
 # ✍️ Developer Quote
 
@@ -132,13 +109,5 @@
 
 ---
 
-# ✨ Learning Philosophy
-
-> “Code. Build. Break. Fix. Repeat.” 🚀  
-
-Every project makes me a better developer.  
-Always learning, always improving.
-
----
 
 ⭐ **Thanks for visiting my GitHub Profile!**
