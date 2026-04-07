@@ -41,12 +41,13 @@
 # 🛠️ Tech Stack
 
 ### 🌐 Frontend
+<p "align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
-
+</p>
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
