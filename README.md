@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm ARJUN DUBEY</h1>
-<h3 align="center">💻 B.Tech CSE Student </h3>
+
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;MERN+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;💻 B.Tech CSE Student;MERN+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
   
@@ -104,11 +104,6 @@
 ---
 
 
-# ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 
 ⭐ **Thanks for visiting my GitHub Profile!**
