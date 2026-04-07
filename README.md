@@ -38,33 +38,43 @@
 
 ---
 
-# 🛠️ Tech Stack
 
-### 🌐 Frontend
-<p "align="center">
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
+
+<h1>🛠️ Tech Stack</h1>
+
+<h3 align="center">🌐 Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white" />
 </p>
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white" />
+</p>
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-blue)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black)
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white" />
+</p>
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue" />
+  <img src="https://img.shields.io/badge/C++-blue" />
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=black" />
+</p>
 
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white" />
+</p>
 ---
 ## 👤 About Me
 
