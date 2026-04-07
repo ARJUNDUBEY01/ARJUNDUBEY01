@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;B.Tech CSE Student;MERN+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;B.Tech+CSE+Student;MERN+Stack+Learner;Open+Source+Enthusiast&center=true&width=500&height=45">
 </p>
 
   
