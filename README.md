@@ -10,6 +10,12 @@
 <img src="https://komarev.com/ghpvc/?username=ArjunDubey01&color=blue">
 </p>
 
+
+
+<p align="center">
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=%2fOQEK4Up&id=347AF4C2576F545FA5F59A77C17AC00103CB48B9&thid=OIP._OQEK4UpZblm-U9Ay670uAHaE5&mediaurl=https%3a%2f%2fmedia.tenor.com%2f-UygBh3nnfEAAAAC%2fcoding.gif&exph=329&expw=498&q=coding+animation+gif&FORM=IRPRST&ck=B8BEA2C9E5E7AEC0247DDBE552D26405&selectedIndex=25&itb=0">
+</p>
+
 ---
 
 💻 *Frontend Developer* | ⚙️ *Backend Developer* | 🌐 *Full Stack Web Developer*  
