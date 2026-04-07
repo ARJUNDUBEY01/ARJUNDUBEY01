@@ -12,10 +12,6 @@
 
 ---
 
-💻 *Frontend Developer* | ⚙️ *Backend Developer* | 🌐 *Full Stack Web Developer*  
-🏫 *B.Tech Computer Science Student – Swaminarayan University*  
-📅 *Batch: 2025–2026*
-
 🌱 Passionate about building modern web applications and continuously learning new technologies.  
 🚀 Currently exploring **React, Backend Development, and Scalable Web Systems**.
 
@@ -77,7 +73,7 @@
       <td width="60%" valign="top">
         <br/>
         
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&width=400&lines=Rakshit+Raj" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&width=400&lines=Arjun+Dubey" />
         <br/><br/>
         <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
         <br/><br/>
@@ -93,7 +89,7 @@
       </td>
       <td width="40%" align="center">
         <br/>
-        <img src="https://i.gifer.com/En1y.gif" width="95%" />
+        <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="95%" />
       </td>
     </tr>
   </table>
