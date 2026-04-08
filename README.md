@@ -136,11 +136,14 @@
 
 ---
 
-# 🐍 Contribution Snake
+
+
+## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ARJUNDUBEY01/ARJUNDUBEY01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
 
 ---
 
