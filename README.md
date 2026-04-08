@@ -12,6 +12,40 @@
 
 ---
 
+
+
+## 👤 About Me
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <br/>
+        
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&width=400&lines=Arjun+Dubey" />
+        <br/><br/>
+        <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
+        <br/><br/>
+        I specialize in architecting scalable backend systems, designing seamless user interfaces, and writing clean, efficient code.
+        <br/><br/>
+        <i>&gt; "I think in functions, debug in loops, and build for the future."</i>
+        <br/><br/>
+        ⚡ <b>Status:</b> Actively building & shipping products.<br/>
+        💻 <b>Stack Focus:</b> MERN Stack, React Native, and C++ (DSA).<br/>
+        🔭 <b>Currently Learning:</b> Advanced System Design & Interactive 3D UI.<br/>
+        🌱 <b>Philosophy:</b> Code is poetry; architecture is the canvas.<br/>
+        📫 <b>Let's Connect:</b> Always open to collaborate!
+      </td>
+      <td width="40%" align="center">
+        <br/>
+        <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="95%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 🌱 Passionate about building modern web applications and continuously learning new technologies.  
 🚀 Currently exploring **React, Backend Development, and Scalable Web Systems**.
 
@@ -76,37 +110,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white" height="40"/>
 </p>
 ---
-## 👤 About Me
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        <br/>
-        
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&color=F97316&width=400&lines=Arjun+Dubey" />
-        <br/><br/>
-        <b>🚀 Full Stack & Mobile Engineer | Problem Solver | Tech Enthusiast</b>
-        <br/><br/>
-        I specialize in architecting scalable backend systems, designing seamless user interfaces, and writing clean, efficient code.
-        <br/><br/>
-        <i>&gt; "I think in functions, debug in loops, and build for the future."</i>
-        <br/><br/>
-        ⚡ <b>Status:</b> Actively building & shipping products.<br/>
-        💻 <b>Stack Focus:</b> MERN Stack, React Native, and C++ (DSA).<br/>
-        🔭 <b>Currently Learning:</b> Advanced System Design & Interactive 3D UI.<br/>
-        🌱 <b>Philosophy:</b> Code is poetry; architecture is the canvas.<br/>
-        📫 <b>Let's Connect:</b> Always open to collaborate!
-      </td>
-      <td width="40%" align="center">
-        <br/>
-        <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="95%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 # 📊 GitHub Stats
 
