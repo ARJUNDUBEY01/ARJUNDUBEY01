@@ -141,7 +141,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/ARJUNDUBEY01/ARJUNDUBEY01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ARJUNDUBEY01/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 
