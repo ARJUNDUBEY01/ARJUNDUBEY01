@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-gamma-six-ln9lbt10xr.vercel.app/">
+<a href="https://arjun-dubey-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
 </a>
 
